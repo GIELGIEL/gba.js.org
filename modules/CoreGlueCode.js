@@ -11,7 +11,7 @@
 
  var games = {
     // "binary-id": "Game Name",
-    "advancewars": "Advance Wars",
+    "advancewars": "Advance Wars testtt",
     "advancewars2": "Advance Wars 2",
     "aladdin": "Aladdin",
     "alienhominid": "Alien Hominid",
@@ -42,6 +42,7 @@
     "gunstar_super_heroes": "Gunstar Super Heroes",
     "hamtaro_heartbreak": "Hamtaro - Ham-Ham Heartbreak",
     "iridion": "Iridion 3D",
+	"Jet_set_radio": "Jet set Radio",
     "kirbymirror": "Kirby & The Amazing Mirror",
     "kirbynightmare": "Kirby: Nightmare in Dreamland",
     "mariokart": "Mario Kart: Super Circuit",
